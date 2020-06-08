@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 
 /**
  * 操作日志注解
- * @author gaorongyu
+ * @author carlon
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)

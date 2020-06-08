@@ -7,7 +7,7 @@ import java.lang.annotation.Target;
 
 /**
  * 拦截日志注解
- * @author gaorongyu
+ * @author carlon
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)

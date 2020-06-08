@@ -2,7 +2,7 @@ package log.operation;
 
 /**
  * 日志服务
- * @author gaorongyu
+ * @author carlon
  */
 public interface OperationLogService {
 

@@ -7,7 +7,7 @@ import java.lang.annotation.Target;
 
 /**
  * 标记id所在的类
- * @author gaorongyu
+ * @author carlon
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)

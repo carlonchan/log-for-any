@@ -4,7 +4,7 @@ import com.whatsegg.pelikan.log.ILogEntity;
 
 /**
  * 获取value接口
- * @author gaorongyu
+ * @author carlon
  */
 public interface IValueFetcher<T> {
 

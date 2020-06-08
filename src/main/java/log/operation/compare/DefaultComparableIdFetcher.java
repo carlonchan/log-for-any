@@ -2,7 +2,7 @@ package log.operation.compare;
 
 /**
  * id取值
- * @author gaorongyu
+ * @author carlon
  */
 public class DefaultComparableIdFetcher implements IComparableIdFetcher {
 

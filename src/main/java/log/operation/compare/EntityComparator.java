@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
  * 对比两个实体差异
  * 暂不支持数组对象中再套一层数组的场景
  *
- * @author gaorongyu
+ * @author carlon
  */
 public class EntityComparator implements IValueComparator {
 

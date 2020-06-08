@@ -4,7 +4,7 @@ import org.aopalliance.intercept.MethodInvocation;
 
 /**
  * 操作人service 不同应用获取方式不同, 通过OperatorServiceRegistry注册自己的实现
- * @author gaorongyu
+ * @author carlon
  */
 public interface IOperatorService {
 

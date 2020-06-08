@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 
 /**
  * digest log 注解 用于统计接口调用指标
- * @author gaorongyu
+ * @author carlon
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)

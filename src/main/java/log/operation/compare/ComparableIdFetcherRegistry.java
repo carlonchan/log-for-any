@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * 对比实体id取值注册
- * @author gaorongyu
+ * @author carlon
  */
 public class ComparableIdFetcherRegistry {
 

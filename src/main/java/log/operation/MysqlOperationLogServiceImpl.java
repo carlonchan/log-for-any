@@ -5,7 +5,7 @@ import java.sql.*;
 
 /**
  * 日志存储到mysql数据库实现
- * @author gaorongyu
+ * @author carlon
  */
 public class MysqlOperationLogServiceImpl implements OperationLogService {
 

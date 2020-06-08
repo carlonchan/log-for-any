@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * id 解析器注册
- * @author gaorongyu
+ * @author carlon
  */
 public class EntityIdParserRegistry {
 

@@ -6,7 +6,7 @@ import org.springframework.aop.framework.AbstractAdvisingBeanPostProcessor;
 /**
  * bean的日志后处理器 织入切面
  *
- * @author gaorongyu
+ * @author carlon
  */
 public class LogBeanPostProcessor extends AbstractAdvisingBeanPostProcessor {
 

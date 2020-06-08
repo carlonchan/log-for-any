@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * 比较器注册器
- * @author gaorongyu
+ * @author carlon
  */
 public class ValueComparatorRegistry {
 

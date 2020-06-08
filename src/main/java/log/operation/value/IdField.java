@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 
 /**
  * 标记id字段
- * @author gaorongyu
+ * @author carlon
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target({ElementType.FIELD, ElementType.PARAMETER})

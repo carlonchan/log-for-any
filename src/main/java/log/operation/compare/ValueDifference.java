@@ -2,7 +2,7 @@ package log.operation.compare;
 
 /**
  * 比较值差异
- * @author gaorongyu
+ * @author carlon
  */
 public class ValueDifference {
 

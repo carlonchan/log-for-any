@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
  * 日志拦截器抽象类，具体实现交给子类
  *
  * @param <T>
- * @author gaorongyu
+ * @author carlon
  */
 public abstract class AbstractLogInterceptor<T extends Annotation> implements MethodInterceptor {
 

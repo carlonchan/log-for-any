@@ -4,7 +4,7 @@ import com.whatsegg.pelikan.log.ILogEntity;
 
 /**
  * 实体比较接口
- * @author gaorongyu
+ * @author carlon
  */
 public interface IValueComparator {
 

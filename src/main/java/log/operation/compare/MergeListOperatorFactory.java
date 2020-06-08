@@ -7,7 +7,7 @@ import java.util.function.BinaryOperator;
 /**
  * 合并list
  *
- * @author gaorongyu
+ * @author carlon
  */
 public class MergeListOperatorFactory {
 

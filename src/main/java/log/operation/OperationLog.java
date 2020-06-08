@@ -2,7 +2,7 @@ package log.operation;
 
 /**
  * 日志内容
- * @author gaorongyu
+ * @author carlon
  */
 public class OperationLog {
 

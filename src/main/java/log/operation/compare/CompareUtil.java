@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicReference;
 
 /**
  * 比较工具
- * @author gaorongyu
+ * @author carlon
  */
 public class CompareUtil {
 

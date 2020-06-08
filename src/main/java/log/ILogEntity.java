@@ -2,7 +2,7 @@ package log;
 
 /**
  * 日志实体
- * @author gaorongyu
+ * @author carlon
  */
 public interface ILogEntity {
 

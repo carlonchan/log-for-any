@@ -24,7 +24,7 @@ import java.util.concurrent.CompletableFuture;
 /**
  * 操作日志拦截器
  *
- * @author gaorongyu
+ * @author carlon
  */
 public class OperationLogInterceptor extends AbstractLogInterceptor<Operation> implements ApplicationContextAware {
 

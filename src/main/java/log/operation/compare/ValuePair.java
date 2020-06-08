@@ -2,7 +2,7 @@ package log.operation.compare;
 
 /**
  * 修改前后的值
- * @author gaorongyu
+ * @author carlon
  */
 public class ValuePair {
 

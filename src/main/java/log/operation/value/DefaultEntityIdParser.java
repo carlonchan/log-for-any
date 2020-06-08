@@ -7,7 +7,7 @@ import java.lang.reflect.Parameter;
 
 /**
  * 默认id解析器
- * @author gaorongyu
+ * @author carlon
  */
 public class DefaultEntityIdParser implements IEntityIdParser {
 

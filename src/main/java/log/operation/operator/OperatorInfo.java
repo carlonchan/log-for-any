@@ -2,7 +2,7 @@ package log.operation.operator;
 
 /**
  * 操作人信息
- * @author gaorongyu
+ * @author carlon
  */
 public class OperatorInfo {
 

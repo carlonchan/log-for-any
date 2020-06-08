@@ -4,7 +4,7 @@ import org.aopalliance.intercept.MethodInvocation;
 
 /**
  * 实体id解析器
- * @author gaorongyu
+ * @author carlon
  */
 public interface IEntityIdParser {
 

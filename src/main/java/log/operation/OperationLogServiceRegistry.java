@@ -2,7 +2,7 @@ package log.operation;
 
 /**
  * 操作日志服务注册
- * @author gaorongyu
+ * @author carlon
  */
 public class OperationLogServiceRegistry {
 

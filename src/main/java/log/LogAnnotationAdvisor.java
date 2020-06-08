@@ -11,7 +11,7 @@ import org.springframework.aop.support.annotation.AnnotationMethodMatcher;
 /**
  * 日志切面
  *
- * @author gaorongyu
+ * @author carlon
  */
 public class LogAnnotationAdvisor extends AbstractPointcutAdvisor {
 

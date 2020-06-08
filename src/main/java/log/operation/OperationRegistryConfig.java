@@ -11,7 +11,7 @@ import com.whatsegg.pelikan.log.operation.value.IEntityIdParser;
 
 /**
  * 操作日志配置
- * @author gaorongyu
+ * @author carlon
  */
 public class OperationRegistryConfig {
 

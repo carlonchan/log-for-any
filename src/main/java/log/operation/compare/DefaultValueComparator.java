@@ -14,7 +14,7 @@ import java.util.Set;
 /**
  * 默认对象比较器
  *
- * @author gaorongyu
+ * @author carlon
  */
 public class DefaultValueComparator implements IValueComparator {
 
