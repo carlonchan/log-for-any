@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * 默认对象比较器
+ * 默认对象比较器 目前没有使用该比较器  ps EntityComparator为默认比较器
  *
  * @author carlon
  */

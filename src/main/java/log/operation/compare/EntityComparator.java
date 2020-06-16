@@ -101,7 +101,6 @@ public class EntityComparator implements IValueComparator {
         }
 
         if (!CollectionUtils.isEmpty(listValue) && !CollectionUtils.isEmpty(anotherListValue)) {
-
             // 1.判断List<Long> 数组中是简单对象的情况
             // 2.List<>中的对象没有唯一键，需要直接转json 放入diffs
             if (simpleListType(field) || ignoreListCompare(field)) {
