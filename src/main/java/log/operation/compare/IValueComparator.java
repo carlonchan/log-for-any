@@ -1,6 +1,6 @@
 package log.operation.compare;
 
-import com.whatsegg.pelikan.log.ILogEntity;
+import log.ILogEntity;
 
 /**
  * 实体比较接口
