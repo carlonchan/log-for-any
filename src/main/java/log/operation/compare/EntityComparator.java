@@ -2,8 +2,8 @@ package log.operation.compare;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.serializer.SerializerFeature;
-import  log.ILogEntity;
-import  log.operation.value.IgnoreCompareList;
+import log.ILogEntity;
+import log.operation.value.IgnoreCompareList;
 import org.springframework.util.CollectionUtils;
 
 import java.lang.annotation.Annotation;

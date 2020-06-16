@@ -1,13 +1,13 @@
 package log.operation;
 
-import  log.operation.compare.ComparableIdFetcherRegistry;
-import  log.operation.compare.IComparableIdFetcher;
-import  log.operation.compare.IValueComparator;
-import  log.operation.compare.ValueComparatorRegistry;
-import  log.operation.operator.IOperatorService;
-import  log.operation.operator.OperatorServiceRegistry;
-import  log.operation.value.EntityIdParserRegistry;
-import  log.operation.value.IEntityIdParser;
+import log.operation.compare.ComparableIdFetcherRegistry;
+import log.operation.compare.IComparableIdFetcher;
+import log.operation.compare.IValueComparator;
+import log.operation.compare.ValueComparatorRegistry;
+import log.operation.operator.IOperatorService;
+import log.operation.operator.OperatorServiceRegistry;
+import log.operation.value.EntityIdParserRegistry;
+import log.operation.value.IEntityIdParser;
 
 /**
  * 操作日志配置

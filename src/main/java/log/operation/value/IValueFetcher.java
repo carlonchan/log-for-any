@@ -1,6 +1,6 @@
 package log.operation.value;
 
-import  log.ILogEntity;
+import log.ILogEntity;
 
 /**
  * 获取value接口

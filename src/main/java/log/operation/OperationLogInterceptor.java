@@ -1,16 +1,16 @@
 package log.operation;
 
 import com.alibaba.fastjson.JSON;
-import  log.AbstractLogInterceptor;
-import  log.ILogEntity;
-import  log.operation.compare.IValueComparator;
-import  log.operation.compare.ValueComparatorRegistry;
-import  log.operation.operator.IOperatorService;
-import  log.operation.operator.OperatorInfo;
-import  log.operation.operator.OperatorServiceRegistry;
-import  log.operation.value.EntityIdParserRegistry;
-import  log.operation.value.IEntityIdParser;
-import  log.operation.value.IValueFetcher;
+import log.AbstractLogInterceptor;
+import log.ILogEntity;
+import log.operation.compare.IValueComparator;
+import log.operation.compare.ValueComparatorRegistry;
+import log.operation.operator.IOperatorService;
+import log.operation.operator.OperatorInfo;
+import log.operation.operator.OperatorServiceRegistry;
+import log.operation.value.EntityIdParserRegistry;
+import log.operation.value.IEntityIdParser;
+import log.operation.value.IValueFetcher;
 import org.aopalliance.intercept.MethodInvocation;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
